@@ -1,0 +1,13 @@
+o
+
+    ّ£ïbل   م                   @   s$   d Z ddlmZ G dd„ deƒZdS )zDefines the State class.é    )ع	BaseModelc                   @   s   e Zd ZdZdZdS )عStatezSRepresent a state.
+
+    Attributes:
+        name (str): The name of the state.
+    ع N)ع__name__ع
+__module__ع__qualname__ع__doc__عname© r
+   r
+   ْ2/home/lexxyla/Desktop/AirBnB_clone/models/state.pyr      s    r   N)r   عmodels.base_modelr   r   r
+   r
+   r
+   r   ع<module>   s   
