@@ -1,0 +1,14 @@
+o
+
+    ّ£ïb  م                   @   s$   d Z ddlmZ G dd„ deƒZdS )zDefines the City class.é    )ع	BaseModelc                   @   s   e Zd ZdZdZdZdS )عCityzwRepresent a city.
+
+    Attributes:
+        state_id (str): The state id.
+        name (str): The name of the city.
+    ع N)ع__name__ع
+__module__ع__qualname__ع__doc__Zstate_idعname© r
+   r
+   ْ1/home/lexxyla/Desktop/AirBnB_clone/models/city.pyr      s    r   N)r   عmodels.base_modelr   r   r
+   r
+   r
+   r   ع<module>   s   
